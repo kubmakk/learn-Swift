@@ -11,19 +11,6 @@ Welcome to my Swift learning repository! This project serves as a living documen
 
 ---
 
-## 🏗️ Project Structure
-
-I’ve organized my learning into the following milestones:
-
-| Level | Topic | Description | Status |
-| --- | --- | --- | --- |
-| 🟢 | **Swift Basics** | Variables, Control Flow, and Optionals. | Completed |
-| 🟡 | **Intermediate** | Enums, Structs vs Classes, and Closures. | In Progress |
-| 🟠 | **Advanced** | Generics, Protocols, and Memory Safety. | Not Started |
-| 🔴 | **Concurrency** | Async/Await, Tasks, and Actors. | Not Started |
-
----
-
 ## 📚 Key Concepts I've Mastered
 
 ### 1. The Power of Optionals
